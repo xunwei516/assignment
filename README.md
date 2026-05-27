@@ -124,6 +124,8 @@ Version 4
 Added safety filtering
 Improved UI and error handling
 
+Video link：https://youtu.be/woO6ihZHz1Q
+
 
 
 
